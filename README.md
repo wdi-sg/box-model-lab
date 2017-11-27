@@ -2,7 +2,7 @@
 
 ![screen shot 2017-11-27 at 4 07 53 am](https://user-images.githubusercontent.com/6153182/33258767-a7973a38-d328-11e7-84c2-6b578fa05d10.png)
 
-(h/t to [Codecademy](https://www.codecademy.com) for putting together this great lab)
+#### (h/t to [Codecademy](https://www.codecademy.com) for putting together this great lab)
 
 In this project, you will follow step-by-step instructions to fix a fictional restaurant's website. All of the HTML and most of the CSS is intact, however, the box model properties have yet to be set.
 
