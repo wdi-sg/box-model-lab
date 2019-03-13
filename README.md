@@ -10,7 +10,6 @@ In order to complete this project, you must know how to set an element's `height
 
 ## Instructions
 -  please `fork` and `clone` this project to your own account
--  please submit a `pull request` when completed
 
 # Tasks
 
