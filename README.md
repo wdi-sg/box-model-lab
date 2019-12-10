@@ -41,6 +41,6 @@ In order to complete this project, you must know how to set an element's `height
 -  Set `ul.nutrition li` elements to 3 pixels of bottom margin.
 -  Set `.content .body` elements to have zero pixels of vertical margin, and the horizontal margins to set automatically (i.e. centered on the page).
 
-### 5. Give elements with the class `button` a 1 pixel, solid blue border.
+### 5. Give elements with the class `button` a 1 pixel, solid blue border
 
 
