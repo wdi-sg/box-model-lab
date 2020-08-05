@@ -14,11 +14,13 @@ a {
 /* Navigation */
 
 nav {
+	width: 180px;
   text-align: center;
 }
 
 nav img {
   display: block;
+  margin: 0 auto;
 }
 
 nav span {
@@ -26,6 +28,7 @@ nav span {
   font-size: 16px;
   font-weight: 100;
   letter-spacing: 2px;
+  margin: 10px 0;
 }
 
 nav a {
@@ -36,6 +39,7 @@ nav a {
 
 .content {
   width: 100%;
+  margin: 10px auto;
 }
 
 /* Content Header */
@@ -54,12 +58,17 @@ nav a {
   font-weight: 300;
   line-height: 40px;
   width: 68%;
+  height: 320px;
+  padding: 20px;
+  margin: 0 auto;
 }
 
 /* Content Body */
 
 .content .body {
   width: 90%;
+  height: 500px;
+  margin: 0 auto;
 }
 
 .body p {
@@ -77,6 +86,10 @@ nav a {
   color: #05A8AA;
   display: block;
   font-weight: 700;
+  width: 200px;
+  padding: 20px;
+  margin: 40px auto;
+  border: 1px solid blue
 }
 
 .button:hover {
@@ -88,12 +101,16 @@ nav a {
 /* Content Nutrition */
 
 ul.nutrition {
+	padding: 40px;
 }
 
 ul.nutrition li {
   display: inline-block;
   background-color: #05A8AA;
   list-style: none;
+  width: 200px;
+  padding: 10px 20px;
+  margin-bottom: 3px;
 }
 
 .nutrition .category {
