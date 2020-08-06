@@ -16,6 +16,7 @@ a {
 nav {
   text-align: center;
   width: 180px;
+  margin: 0 auto;
 }
 
 nav img {
